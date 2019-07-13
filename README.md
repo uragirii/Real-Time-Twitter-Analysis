@@ -12,4 +12,4 @@ _Note : You need Twitter Developers Account for running the program. Use your To
 # Output:
 The program draws a piechart with legends like this (analyis done on 2019-07-13 14:10 IST):
 
-
+![Twitter Analysis](Twitter_Analysis.png)
